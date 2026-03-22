@@ -1,5 +1,5 @@
 # react-fastapi-inventory
-<<<<<<< HEAD
+
 =======
 
 # Inventory Management System
@@ -26,4 +26,4 @@ uvicorn main:app --reload
 cd frontend
 npm install
 npm start
->>>>>>> d39af070f8535ec62e6f0dc76adbce851f18955d
+
